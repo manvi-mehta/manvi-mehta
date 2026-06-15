@@ -1,4 +1,4 @@
-## Turning stakeholder confusion into Jira tickets since 2024
+## The human API between business and tech :P
 
 **Business Analyst || AI & Data Analytics || Dashboarding & Stakeholder Management**
 
